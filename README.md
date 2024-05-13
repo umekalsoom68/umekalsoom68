@@ -1,6 +1,7 @@
 - # 💫 About Me:
+👉🏻Hi i am umekalsoom Rizviw
 👩🏻‍💻I am learning web development by using <br>javascript 
-
+😍Fun fact programming
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ukrizvi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UkRizvia) 
@@ -15,14 +16,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=umekalsoom68&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->👋 Hi, I’m @umekalsoom68
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 umekalsoom68/umekalsoom68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
