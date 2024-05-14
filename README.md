@@ -1,7 +1,9 @@
 # 💫 About Me:
-👩🏻‍💻Hy ,I am UmeKalsoom Rizvia<br>👉🏻I am learning Web Development.<br>😍Fun Fact Programming
-
-
+👩🏻‍💻Hy ,I am UmeKalsoom Rizvia
+ 👉🏻I’m currently learning Web Development.
+👯 I’m looking to collaborate on Web Development
+🌱 I’m currently learning  java script.
+😍 Fun fact Programming
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/UKrizvia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UkRizvia) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ukarain56Arain) 
 
